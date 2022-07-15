@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in my profile</h1>
 <h2 align="center">Alvin Austin</h1>
 <h3 align="center">Graphic Designer | Web Developer</h3>
-<img align="center" alt="Graphic Designer | Web Developer widht="400" src="https://media2.giphy.com/media/tJ2xRBV9jbWkxmCJnk/giphy.gif?cid=790b7611d0d8b9dafc5b1f8bd921a18940a83ed571897b01&rid=giphy.gif&ct=g">
+<img align="center" alt="Graphic Designer | Web Developer widht="400" src="https://techmoran.com/wp-content/uploads/2021/09/75ba3566332741.5b13e3a31e774.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
 
