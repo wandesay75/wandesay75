@@ -15,7 +15,7 @@
 
  - 🌱 I’m currently learning **Web Developer and Machine Learning** 
 
- - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay)
+ - 👨‍💻 All of my social media [My Social Media](https://linktr.ee/wandesay)
 
  - 💬 Ask me about **Python and Javascript** 
 
