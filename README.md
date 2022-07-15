@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=1d1d1d&style=flat" alt="wandesay75" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&row=2&column=3&theme=onedark" alt="wandesay75" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&row=2&column=3&theme=juicyfresh" alt="wandesay75" /></a> </p>
 
 
 <p align="left"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
