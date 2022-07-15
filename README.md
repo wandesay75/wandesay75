@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in my profile</h1>
 <h2 align="center">Alvin Austin</h1>
 <h3 align="center">Graphic Designer | Web Developer</h3>
-<img align="left" alt="Graphic Designer | Web Developer" width="400" src="https://thumbs.gfycat.com/ImpossibleUniqueAfricanfisheagle-max-1mb.gif">
+<img align="center" alt="Graphic Designer | Web Developer" width="400" src="https://thumbs.gfycat.com/ImpossibleUniqueAfricanfisheagle-max-1mb.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
 
