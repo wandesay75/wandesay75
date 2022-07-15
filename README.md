@@ -2,7 +2,7 @@
 <h3 align="center">Graphic Designer | Junior Web Developer</h3>
 <img align="right" alt="Graphic Designer | Web Developer widht="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75" alt="wandesay75" /></a> </p>
 
