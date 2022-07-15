@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/wandesay/](https://www.linkedin.com/in/wandesay/)
-
 - 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **wandesay85@gmail.com**
