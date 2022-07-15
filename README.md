@@ -23,11 +23,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/wandesay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandesay" height="30" width="40" /> </a>
-<a href="https://stackoverflow.com/users/19136978" target="_blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="19136978" height="30" width="40" />  </a>
-<a href="https://fb.com/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="wandesay" height="30" width="40" />  </a>
-<a href="https://instagram.com/wan.desay" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wan.desay" height="30" width="40" /> </a>
-<a href="https://www.youtube.com/c/alvin austin" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/wandesay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandesay" /> </a>
+<a href="https://stackoverflow.com/users/19136978" target="_blank"><img align="center" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="19136978" />  </a>
+<a href="https://fb.com/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="wandesay" />  </a>
+<a href="https://instagram.com/wan.desay" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wan.desay"/> </a>
+<a href="https://www.youtube.com/c/alvin austin" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
 </p>
 
 
