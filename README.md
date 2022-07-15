@@ -44,4 +44,4 @@
 
 <p align="center" style="background-color:black;">&nbsp;<img align="center" style="background-color:black;" src="https://github-readme-stats.vercel.app/api?username=wandesay75&show_icons=true&theme=tokyonight" alt="wandesay" /></p>
 
-<p align="center"> <img align="center" src="https://starchart.cc/wandesay75/wandesay75.svg" </p>
+<p align="center"> <img align="center" src="https://starchart.cc/wandesay75/ARK-Studio.svg" </p>
