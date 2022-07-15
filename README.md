@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&row=2&column=3&theme=onedark" alt="wandesay75" /></a> </p>
 
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay)
+<p align="center"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
 
 - 🌱 I’m currently learning **Web Developer and Machine Learning**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python and Javascript**
 
-- 📫 How to reach me **wandesay85@gmail.com**
+- 📫 Email Me : **wandesay85@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
