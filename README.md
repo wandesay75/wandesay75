@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in my profile</h1>
 <h2 align="center">Alvin Austin</h1>
 <h3 align="center">Graphic Designer | Web Developer</h3>
-<img align="center" alt="Graphic Designer | Web Developer" width="750" src="https://payload.cargocollective.com/1/11/370218/14104225/void2.gif">
+<img align="right" alt="Graphic Designer | Web Developer" width="790" src="https://payload.cargocollective.com/1/11/370218/14104225/void2.gif">
 
 <br>
 
