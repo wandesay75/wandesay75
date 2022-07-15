@@ -44,4 +44,4 @@
 
 <p align="center" style="background-color:black;">&nbsp;<img align="center" style="background-color:black;" src="https://github-readme-stats.vercel.app/api?username=wandesay75&show_icons=true&theme=tokyonight" alt="wandesay" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?wandesay75=wandesay75&theme=tokyonight" </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandesay75&theme=tokyonight" </p>
