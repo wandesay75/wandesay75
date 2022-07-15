@@ -11,16 +11,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=1d1d1d&style=flat" alt="wandesay75" /> </p>
 
-<p align="left"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
+ - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) 
 
-<p align="left"> - 🌱 I’m currently learning **Web Developer and Machine Learning** </p>
+ - 🌱 I’m currently learning **Web Developer and Machine Learning** 
 
-<p align="left"> - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay) </p>
+ - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay)
 
-<p align="left"> - 💬 Ask me about **Python and Javascript** </p>
+ - 💬 Ask me about **Python and Javascript** 
 
-<p align="left"> - 📫 Email Me : **wandesay85@gmail.com** </p>
-
+ - 📫 Email Me : **wandesay85@gmail.com** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
