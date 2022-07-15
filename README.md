@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvin Austin</h1>
+<h1 align="center">Welcome in my profile</h1>
 <h3 align="center">Graphic Designer | Junior Web Developer</h3>
 <img align="right" alt="Graphic Designer | Web Developer widht="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
