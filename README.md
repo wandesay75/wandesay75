@@ -12,13 +12,13 @@
 
 <p align="center"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
 
-- 🌱 I’m currently learning **Web Developer and Machine Learning**
+<p align="center"> - 🌱 I’m currently learning **Web Developer and Machine Learning** </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay)
+<p align="center"> - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay) </p>
 
-- 💬 Ask me about **Python and Javascript**
+<p align="center"> - 💬 Ask me about **Python and Javascript** </p>
 
-- 📫 Email Me : **wandesay85@gmail.com**
+<p align="center"> - 📫 Email Me : **wandesay85@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
