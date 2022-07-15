@@ -9,16 +9,18 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&row=2&column=3&theme=onedark" alt="wandesay75" /></a> </p>
 
+<h4 align="center"> About Me </h4>
 
-<p align="center"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
 
-<p align="center"> - 🌱 I’m currently learning **Web Developer and Machine Learning** </p>
+<p align="left"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
 
-<p align="center"> - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay) </p>
+<p align="left"> - 🌱 I’m currently learning **Web Developer and Machine Learning** </p>
 
-<p align="center"> - 💬 Ask me about **Python and Javascript** </p>
+<p align="left"> - 👨‍💻 All of my projects are available at [https://linktr.ee/wandesay](https://linktr.ee/wandesay) </p>
 
-<p align="center"> - 📫 Email Me : **wandesay85@gmail.com** </p>
+<p align="left"> - 💬 Ask me about **Python and Javascript** </p>
+
+<p align="left"> - 📫 Email Me : **wandesay85@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
