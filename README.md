@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python and Javascript**
 
-- 📫 How to reach me **alvin.austin4@gmail.com**
+- 📫 How to reach me **wandesay85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
