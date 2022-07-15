@@ -9,8 +9,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&row=2&column=3&theme=onedark" alt="wandesay75" /></a> </p>
 
-<h4 align="center"> About Me </h4>
-
 
 <p align="left"> - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) </p>
 
