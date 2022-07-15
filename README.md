@@ -6,6 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75" alt="wandesay75" /></a> </p>
 
+<p align="center">
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay)
 
 - 🌱 I’m currently learning **Web Developer and Machine Learning**
@@ -17,6 +18,7 @@
 - 💬 Ask me about **Python and Javascript**
 
 - 📫 How to reach me **wandesay85@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
