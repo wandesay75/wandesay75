@@ -4,8 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75" alt="wandesay75" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandesay75&theme=onedark" alt="wandesay75" /></a> </p>
+
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay)
 
