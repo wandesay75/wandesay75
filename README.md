@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in my profile</h1>
 <h2 align="center">Alvin Austin</h1>
 <h3 align="center">Graphic Designer | Web Developer</h3>
-<img align="center" alt="Graphic Designer | Web Developer" width="800" src="https://payload.cargocollective.com/1/11/370218/14104225/void2.gif">
+<img align="right" alt="Graphic Designer | Web Developer" width="800" src="https://payload.cargocollective.com/1/11/370218/14104225/void2.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
 
