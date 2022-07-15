@@ -1,6 +1,6 @@
 <h1 align="center">Welcome in my profile</h1>
 <h2 align="center">Alvin Austin</h1>
-<h3 align="center">Graphic Designer | Junior Web Developer</h3>
+<h3 align="center">Graphic Designer | Web Developer</h3>
 <img align="right" alt="Graphic Designer | Web Developer widht="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wandesay75&label=Profile%20views&color=0e75b6&style=flat" alt="wandesay75" /> </p>
