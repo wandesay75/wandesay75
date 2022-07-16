@@ -18,7 +18,7 @@
 
  - 💬 Ask me about **Python and Javascript** 
 
- - 📫 Email Me : **wandesay85@gmail.com** 
+ - 📫 All My Social Media : [Social Media](https://linktr.ee/wandesay)
 
 ------
 
