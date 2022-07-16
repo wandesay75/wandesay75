@@ -14,7 +14,7 @@
 
  - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/wandesay) 
 
- - 🌱 I’m currently learning **Web Developer and Machine Learning** 
+ - 🌱 I’m currently learning **Software Engineer and Machine Learning** 
 
  - 💬 Ask me about **Python and Javascript** 
 
