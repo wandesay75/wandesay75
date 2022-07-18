@@ -27,8 +27,8 @@
 <a href="https://linkedin.com/in/wandesay" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wandesay" /> </a>
 <a href="https://fb.com/wandesay" target="_blank"> <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="wandesay" />  </a>
 <a href="https://instagram.com/wan.desay" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wan.desay"/> </a>
-<a href="https://www.youtube.com/c/alvin austin" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
-<a href="behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
+<a href="https://www.youtube.com/c/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
+<a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
 </p>
 
 <h3 align="center"> Operating System:</h3>
