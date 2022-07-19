@@ -18,7 +18,6 @@
 
  - 💬 Ask me about **Python and Javascript** 
 
- - 📫 All My Social Media : [Social Media](https://linktr.ee/wandesay)
 
 ------
 
