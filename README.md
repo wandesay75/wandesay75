@@ -2,7 +2,7 @@
 <h2 align="center">Alvin Austin <br>
  Graphic Designer | Web Developer</h1>
 
-<a href="https://app.daily.dev/wandesay75"><img src="https://api.daily.dev/devcards/f13c02864b8a4be1aea305519f29d743.png?r=rb4" align="right" width="800" height="400" alt="Alvin Austin's Dev Card"/></a>
+<a href="https://app.daily.dev/wandesay75"><img src="https://api.daily.dev/devcards/f13c02864b8a4be1aea305519f29d743.png?r=rb4" align="right" width="400" height="600" alt="Alvin Austin's Dev Card"/></a>
 
 <br>
 
