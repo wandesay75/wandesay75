@@ -2,7 +2,7 @@
 <h2 align="center">Alvin Austin <br>
  Graphic Designer | Web Developer</h1>
 
-<img align="right" alt="Graphic Designer | Web Developer" width="400" height="480" src="https://payload.cargocollective.com/1/11/370218/14104225/void2.gif" alt="welcome">
+<a href="https://app.daily.dev/wandesay75"><img align="right" src="https://api.daily.dev/devcards/866e68c8b7044b9182f87c78980d8a7d.png?r=02c" width="400" height="400" alt="Alvin Austin"/></a>
 
 <br>
 
