@@ -32,8 +32,9 @@
 <a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
 </p>
 
+<p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/442245136110321666)](https://discord.com/users/442245136110321666)
-
+</p>
 
 
 
