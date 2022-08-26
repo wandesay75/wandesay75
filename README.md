@@ -30,10 +30,15 @@
 <a href="https://instagram.com/wan.desay" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wan.desay"/> </a>
 <a href="https://www.youtube.com/c/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
 <a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
+ 
+<a href = "https://discordapp.com/users/442245136110321666/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>&nbsp;&nbsp;
+
+<a href="https://discordapp.com/users/442245136110321666/">
+  <img src="https://discord.c99.nl/widget/theme-3/442245136110321666.png" />
+</a>
 </p>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/442245136110321666?theme=dark&bg=1D1D1D&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/442245136110321666)
 
 
 
