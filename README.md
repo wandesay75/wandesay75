@@ -31,6 +31,11 @@
 <a href="https://www.youtube.com/c/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
 <a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
 </p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/442245136110321666)
+
+
+
+
 
 <h3 align="center"> Operating System:</h3>
 <p align="center"> <a href="https://www.apple.com/id/ios/ios-15/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>
