@@ -34,8 +34,7 @@
 
 </p>
 
-<a align="center" href="https://discordapp.com/users/442245136110321666/">
-  <img align="center" src="https://discord.c99.nl/widget/theme-3/442245136110321666.png" />
+<a align="center" href="https://discordapp.com/users/442245136110321666/"> <img align="center" src="https://discord.c99.nl/widget/theme-3/442245136110321666.png"/>
 </a>
 
 
