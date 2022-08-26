@@ -32,9 +32,9 @@
 <a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
 </p>
 
-<a align="center">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/442245136110321666?theme=dark&bg=1D1D1D&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/442245136110321666)
-</a>
+
 
 
 
@@ -51,3 +51,5 @@
 
 <h3 align="center"> Github Status:</h3>
 <p align="center"> <img height="167" align="left" src="https://github-readme-stats.vercel.app/api?username=wandesay75&show_icons=true&theme=tokyonight" style="max-width:100%;" alt="wandesay" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandesay75&layout=compact&theme=tokyonight" />  </p>
+ 
+ 
