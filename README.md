@@ -31,13 +31,13 @@
 <a href="https://www.youtube.com/c/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alvin austin" /> </a>
 <a href="https://www.behance.net/wandesay" target="_blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="alvin austin" /> </a>
 <br>
-<a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img align="center" src="https://discord.c99.nl/widget/theme-3/442245136110321666.png"/> </a> 
+
 </p>
 
 
-
-
-
+<p align="center">
+<a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img align="center" src="https://discord.c99.nl/widget/theme-3/442245136110321666.png"/> </a> 
+</p>
 
 
 <h3 align="center"> Operating System:</h3>
