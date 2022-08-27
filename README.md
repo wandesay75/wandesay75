@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="center" width="500px" height="150px" alt="may"/> <a/>
+<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="center" height="150px" alt="may"/> <a/>
 </p>
  
 <h3 align="center"> Operating System:</h3>
