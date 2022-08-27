@@ -36,9 +36,10 @@
 
 
 <p align="center">
-<a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img align="center" src="https://discord.c99.nl/widget/theme-2/442245136110321666.png"/> </a> 
+<a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/442245136110321666.png" align="center" /> </a> 
 </p>
 
+<img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="right" alt="may"/></a>
 
 <h3 align="center"> Operating System:</h3>
 <p align="center"> <a href="https://www.apple.com/id/ios/ios-15/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>
