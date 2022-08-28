@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=45&duration=3000&pause=4000&color=F70000&width=800&height=80&lines=+++%F0%9F%92%8A+++WELCOME++TO++MY+PROFILE+++%F0%9F%92%8A+;%F0%9F%92%80+MY+NAME+IS++ALVIN+AUSTIN+%F0%9F%92%80;%F0%9F%92%BB++AS++A++GRAPHIC++DESIGNER++%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=45&duration=3000&pause=4000&color=F70000&width=800&height=80&lines=+++%F0%9F%92%8A+++WELCOME++TO++MY+PROFILE+++%F0%9F%92%8A+;%F0%9F%92%80MY+NAME+IS+ALVIN+AUSTIN%F0%9F%92%80;%F0%9F%92%BB++AS++A++GRAPHIC++DESIGNER++%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 
 <a href="https://app.daily.dev/wandesay75" target="_blank" ><img src="https://api.daily.dev/devcards/f13c02864b8a4be1aea305519f29d743.png?r=xwr" align="right" height="450" alt="Alvin Austin's Dev Card"/></a>
