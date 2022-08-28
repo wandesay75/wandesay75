@@ -35,7 +35,7 @@
 </p>
 
 <p align="right">
-<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="right" height="100px" alt="may"/> <a/>
+<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="right" height="100" alt="may"/> <a/>
 </p>
 
 <p align="center">
