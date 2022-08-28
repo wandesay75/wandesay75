@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F70000&width=435&lines=++%F0%9F%92%8A++WELCOME+TO+MY+PROFILE++%F0%9F%92%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=45&duration=3000&pause=4000&color=F70000&width=800&height=75&lines=++%F0%9F%92%8A++WELCOME+TO+MY+PROFILE++%F0%9F%92%8A" alt="Typing SVG" /></a>
 </h1>
 <h2 align="center">Alvin Austin <br>
  Graphic Designer | Web Developer</h1>
