@@ -62,6 +62,6 @@
 <a align="center" href="https://paypal.me/wandesay75"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" align="center"> </a>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9D%A4%EF%B8%8F+Thank+You+For+Donating+me!+Have+a+nice+day++%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=27F74B&width=435&lines=%E2%9D%A4%EF%B8%8F++Thank+You+For+Donating+me!++%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
