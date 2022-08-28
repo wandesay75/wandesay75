@@ -36,7 +36,7 @@
 
 
 <p align="center">
-<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="center" height="90" alt="may"/> <a/>
+<a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="center" height="100" alt="may"/> <a/>
 <a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/442245136110321666.png" align="center" width="330px" /> </a> 
 </p>
 
