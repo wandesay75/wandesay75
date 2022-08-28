@@ -56,5 +56,6 @@
 
 <h3 align="center"> Github Status:</h3>
 <p align="center"> <img height="167" align="left" src="https://github-readme-stats.vercel.app/api?username=wandesay75&show_icons=true&theme=tokyonight" style="max-width:100%;" alt="wandesay" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandesay75&layout=compact&theme=tokyonight" />  </p>
- 
- 
+
+<h3 align="center"> Donate me : </h3> 
+ <p align="center"> [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wandesay75)  </p>
