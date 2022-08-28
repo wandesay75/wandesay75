@@ -39,7 +39,7 @@
 <a href="https://discordapp.com/users/442245136110321666/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/442245136110321666.png" align="center" width="330px" /> </a> 
 </p>
 
-<p align="center">
+<p align="right">
 <a> <img src="https://c.tenor.com/rRlMzxTn-XgAAAAC/mono-may.gif" align="center" height="150px" alt="may"/> <a/>
 </p>
 
