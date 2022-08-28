@@ -58,5 +58,5 @@
 <p align="center"> <img height="167" align="left" src="https://github-readme-stats.vercel.app/api?username=wandesay75&show_icons=true&theme=tokyonight" style="max-width:100%;" alt="wandesay" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandesay75&layout=compact&theme=tokyonight" />  </p>
 
 <h3 align="center"> Donate me : </h3> 
- <a href="https://paypal.me/wandesay75"> <img https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white align="center"> </a>
+ <a href="https://paypal.me/wandesay75"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" align="center"> </a>
 
