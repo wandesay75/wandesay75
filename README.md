@@ -14,7 +14,7 @@
 
  - 🔭  I’m currently working on [ReArchivu](https://www.youtube.com/@ReArchivu) 
 
- - 🌱 I’m currently learning **Software Engineer and Machine Learning** 
+ - 🌱 I’m currently learning **Programming** 
 
  - 💬 Ask me about **Graphic Designer** 
 
