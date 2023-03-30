@@ -16,7 +16,7 @@
 
  - 🌱 I’m currently learning **Software Engineer and Machine Learning** 
 
- - 💬 Ask me about **Python, Javascript & Linux** 
+ - 💬 Ask me about **Graphic Designer** 
 
  - 🌠 Lets connect with me!
 
